@@ -1,5 +1,6 @@
 {
     "name": "leomaturano/CursoHCodeProjeto",
+    "description": "Projeto final do Curso da Hcode",
     "authors": [
         {
             "name": "Leonardo Maturano",
@@ -13,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
